@@ -1,0 +1,3 @@
+/Users/lilymcamis/FALL2023/CS2124/lab/rec10/cmake-build-debug/CMakeFiles/rec10.dir
+/Users/lilymcamis/FALL2023/CS2124/lab/rec10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lilymcamis/FALL2023/CS2124/lab/rec10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
